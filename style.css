@@ -13,3 +13,15 @@ body {
     min-height: 100vh;
     background: wheat;
 }
+
+.wrapper {
+    width: 780px;
+    border-radius: 20px;
+    padding: 35px 40px;
+    background: rgb(73, 36, 36);
+}
+
+.piano-keys .key {
+    list-style: none;
+    color: blueviolet;
+}
